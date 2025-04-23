@@ -29,3 +29,5 @@ Môi trường dự án: Java v17
 # BUILD DOCKER:
 Run cmd: docker compose -p duykhanh-spring-rest up -d
  
+# CHÚ Ý:
+Khi tạo schema: name = jobhunter, lựa chọn Charset/Collation: utf8 ( hỗ trợ tiếng Việt)
