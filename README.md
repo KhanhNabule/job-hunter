@@ -26,6 +26,6 @@ Full Source Code series Java Spring Restful (dự án jobHunter)
 Môi trường dự án: Java v17
 
 ===
-BUILD DOCKER:
+# BUILD DOCKER:
 Run cmd: docker compose -p duykhanh-spring-rest up -d
  
